@@ -49,19 +49,6 @@ Edit
 
 ---
 
-### **Explanation:**
-1. **Project Title**: Clearly states the project's name at the top.
-2. **Features**: Lists the key features of your To-Do List, such as adding, marking, and deleting tasks.
-3. **Technologies Used**: Mentions the technologies used to build the project (HTML, CSS, JavaScript).
-4. **Installation Instructions**: Provides steps on how others can clone and run the project locally.
-5. **Usage**: Explains how users can interact with the To-Do List.
-6. **Screenshots**: Includes a placeholder for the screenshot of the project.
-7. **License**: Mentions the license under which the project is released (MIT in this case).
-8. **Acknowledgments**: Thanks any resources or tutorials used to build the project.
-
----
-
-
 This README provides all the essential details about your **To-Do List** project and can be added to your GitHub repository for easy access by others. It will also be useful for anyone who wants to understand or contribute to your project.
 
 Let me know if you need further modifications!
